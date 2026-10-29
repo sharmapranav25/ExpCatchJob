@@ -1,0 +1,6 @@
+{
+  "repo": "/absolute/path/to/Resume-Matcher",
+  "template": "/absolute/path/to/your/resume-template.docx",
+  "slots": "apps/backend/job-builder-config/your-slots.json",
+  "constraints": "/absolute/path/to/CONSTRAINTS.md"
+}

@@ -1,0 +1,4 @@
+{
+  "repo": "/absolute/path/to/simple-jev",
+  "python": "/absolute/path/to/simple-jev/.venv/bin/python"
+}

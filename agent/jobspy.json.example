@@ -1,0 +1,4 @@
+{
+  "python": "/absolute/path/to/JobSpy/.venv/bin/python",
+  "repo": "/absolute/path/to/JobSpy"
+}

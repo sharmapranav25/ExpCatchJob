@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.lock
+state.json
+agent.log
+h1b-cache/
+local-cache/
+backups/
+
+# Real configs (contain your own absolute machine paths) — copy from the .example files
+jobspy.json
+simple_jev.json
+resume_builder.json
